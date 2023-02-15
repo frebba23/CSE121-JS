@@ -1,0 +1,30 @@
+{
+    "songs": [
+      {
+        "title": "Hard Miles",
+        "audio": "audio/Bryan Mathys - Hard Miles.mp3",
+        "cover": "photos/happy-clappy.jpg"
+      },
+      {
+        "title": "It's Not Hard to Get Lost",
+        "audio": "audio/Bryan Mathys - It's Not Hard to Get Lost.mp3",
+        "cover": "photos/mad-hatter.jpg"
+      },
+      {
+        "title": "Wild Heart",
+        "audio": "audio/Bryan Mathys - Wild Heart.mp3",
+        "cover": "photos/earning-happiness.jpg"
+      },
+      {
+        "title": "Til My Teardrops Turn To Gold",
+        "audio": "audio/Rex Hobart &amp; the Misery Boys - 'Til My Teardrops Turn To Gold.mp3",
+        "cover": "photos/somewhere-nice.jpg"
+      },
+      {
+        "title": "I'll Never Sleep It Off",
+        "audio": "audio/Rex Hobart &amp; the Misery Boys - I'll Never Sleep It Off.mp3",
+        "cover": "photo/never.jpg"
+      }
+    ]
+  }
+  

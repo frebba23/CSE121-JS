@@ -11,6 +11,7 @@ const songs = [
 const player = document.getElementById("player");
 
 function createSongList(){
+    /* Creating an ordered list. */
     const list = document.createElement("ol");
     songs.forEach(song => {
         let item = document.createElement("li");
@@ -62,6 +63,6 @@ function updateProgress() {
         const progressBar = document.getElementById('progress');
         progressBar.value = (player.currentTime / player.duration) * 100;
     }
-     console.log(player.duration);
+     //console.log(player.duration);
     
 }
